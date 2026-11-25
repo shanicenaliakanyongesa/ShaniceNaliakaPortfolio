@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio! This project showcases my technical skills, professional interests, projects, and experience across software engineering, data, AI, and digital solutions.
 
+## Link: https://shanice-naliaka-portfolio.vercel.app/
+
 ## About Me
 
 I am a technology professional passionate about building practical software solutions, transforming data into insights, and exploring how AI can solve real-world problems.

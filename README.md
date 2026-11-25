@@ -2,7 +2,9 @@
 
 Welcome to my personal portfolio! This project showcases my technical skills, professional interests, projects, and experience across software engineering, data, AI, and digital solutions.
 
-## Link: https://shanice-naliaka-portfolio.vercel.app/
+## Link
+
+https://shanice-naliaka-portfolio.vercel.app/
 
 ## About Me
 
